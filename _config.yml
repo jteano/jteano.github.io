@@ -3,11 +3,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: John Teano
+title: Junior Developer
+email: teano.john@gmail.com
+phone: 562-236-6465
+website: www.johnteano.me
 
 # Dark Mode (true/false/never)
 darkmode: false
