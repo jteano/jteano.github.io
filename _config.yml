@@ -33,7 +33,18 @@ projects_title: Test
 experience_title: Experience
 
 # Education Section
-educaton_title: Education
+education_title: Education
+education_content: |
+- layout: left
+  name: Institution name
+  dates: Date Range (eg. 2016 - 2019)
+  qualification: Qualifications (eg. BA Performing Arts)
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
+
+
 
 # More Section
 # more_title: A Little More About Me
