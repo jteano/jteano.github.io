@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! My name is John and I currently work as an IT Technician. I'm currently pursuing my Bachelor's Degree in Computer Science at California State University of Long Beach. I've worked on coding projects here and there to achieve my goal of being a software engineer. 
   
-  I am most skilled in: <mark>Information Technology</mark> and <mark>Software Management</mark>
+  I am most skilled in: <mark>Information Technology</mark> and <mark>Software Development</mark>
 
 # Projects Section
 # projects_title: Projects
