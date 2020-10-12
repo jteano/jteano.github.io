@@ -1,6 +1,6 @@
 # Site
-repository: jteano/jteano.github.io
-favicon: images/favicon.ico
+#repository: jteano/jteano.github.io
+#favicon: images/favicon.ico
 
 # Personal info
 name: John Teano
@@ -48,7 +48,6 @@ Teams to assist users and maintain database.
 procedures to minimize repetitive tasks.
 - Working with users from different parts of the country. Scheduling remote sessions through
 calls/email exchange.
-
 - layout: left
   company: Downey Unified School District
   link: dusd.net
@@ -66,7 +65,6 @@ internet repair videos and manuals to restore devices to working order.
 - Looked up and ordered parts to repair Windows and Apple devices.
 - Created Excel sheets and documents to keep track of devices.
 - Communicated efficiently with staff to repair ongoing issues.
-
 - layout: left
   company: Downey Unified School District
   link: dusd.net
@@ -79,8 +77,6 @@ internet repair videos and manuals to restore devices to working order.
 - Created themes for the library during the holidays.
 - Remodeled the computer lab to make classroom management easier for the teachers.
 - Coordinated with district technology to expedite staff device repair.
-
-
 - layout: left
   company: Downey City Library
   link: downeylibrary.org
