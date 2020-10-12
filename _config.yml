@@ -26,14 +26,14 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Active Directory</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
-# projects_title: Test
+projects_title: Test
   Testing 123
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
