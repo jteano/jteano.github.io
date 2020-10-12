@@ -1,113 +1,46 @@
 # Site
-#repository: jteano/jteano.github.io
+repository: jteano/jteano.github.io
 #favicon: images/favicon.ico
 
 # Personal info
-#name: John Teano
+name: John Teano
 title: Junior Developer
 email: teano.john@gmail.com
 website: www.johnteano.me
 
 # Social links
+#twitter_username: facespics
 github_username:  jteano
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-linkedin_username: john-teano-1963811b4
+#instagram_username: chillwildlife
+linkedin_username: john-teano-1963811b4/
 # pinterest_username: jekyll
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's John and I'm a Junior Developer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>Active Directory</mark> and <mark>Eating Pizza</mark>
+  Hello! My name is John and I currently work as a IT Technician. I'm currently pursuing my Bachelor's Degree in Computer Science at California State University of Long Beach. I've worked on coding projects here and there to achieve my goal of being a software engineer. 
+  
+  I am most skilled in: <mark>Information Technology</mark> and <mark>Software Management</mark>
 
 # Projects Section
-projects_title: Test
-  Testing 123
+# projects_title: Projects
 
 # Experience Section
-experience_title: Experience
-experience_content: |
-- layout: left
-  company: Steel Partners Holdings
-  link: steelpartners.com
-  job_title: IT Help Desk Analyst
-  dates: August 2020 - Present
-  description: | # this will include new lines to allow paragraphs
-Working with O365 and Active Directory and Azure across 3 different tenants.
-Performing the onboarding and offboard process of all users. This includes remote session where
-user computers are set up according to company specifications.
-Working extensively with different software tools such as Dameware, SharePoint, Microsoft
-Teams to assist users and maintain database.
-Assisting with the migration of users from Active Directory to O365 cloud.
-Extensive use of the KACE ticketing system to respond to user requests and documenting
-procedures to minimize repetitive tasks.
-Working with users from different parts of the country. Scheduling remote sessions through
-calls/email exchange.
-- layout: left
-  company: Downey Unified School District
-  link: dusd.net
-  job_title: Computer/Network Support Technician
-  dates: March 2020 - August 2020
-  description: | # this will include new lines to allow paragraphs
-Assist teachers and students with computer/network related issues. Tasks involved using remote
-desktop to assist teachers and staff with updating their computer and troubleshooting issues.
-Set up teachers for remote desktop work by installing a VPN so they can work from home and
-have access to site specific software.
-Distributed devices for both teachers and staff. Implemented distribution system during
-COVID-19 pandemic.
-Repaired devices under the supervision of a Computer Network Support Technician. Referenced
-internet repair videos and manuals to restore devices to working order.
-Looked up and ordered parts to repair Windows and Apple devices.
-Created Excel sheets and documents to keep track of devices.
-Communicated efficiently with staff to repair ongoing issues.
-- layout: left
-  company: Downey Unified School District
-  link: dusd.net
-  job_title: Library Media Technician
-  dates: March 2016 - March 2020
-  description: | # this will include new lines to allow paragraphs
-Assisted students with using Library and Computer Lab.
-Provided story time for students from Kindergarten to 5th grade.
-Performed Apple iMac and iPad troubleshooting for both teachers and students.
-Created themes for the library during the holidays.
-Remodeled the computer lab to make classroom management easier for the teachers.
-Coordinated with district technology to expedite staff device repair.
-- layout: left
-  company: Downey City Library
-  link: downeylibrary.org
-  job_title: Library Aide
-  dates: April 2015 - February 2016
-  description: | # this will include new lines to allow paragraphs
-Organized library books using the Dewey Decimal system.
-Provided assistance to library patrons.
-Maintained a level of discipline in the library.
-Processed new books for public use.
-Supervised computer lab. Assisted patrons with technology issues.
-
+# experience_title: Experience
 
 # Education Section
-education_title: Education
-education_content: |
-- layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
-
-
+# educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in IT and software engineering some of my other interests and hobbies are:
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Cooking
    - Surfing
    - Tinkering with Electronics
