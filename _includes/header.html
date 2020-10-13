@@ -123,7 +123,7 @@
       {%- endif -%}
       {%- if site.resume -%}
         <p>
-          {{ site.resume_title | default: "Web" }}: {% include a.html href=site.resume %}{{ site.resume | escape }}</a>
+          {{ site.resume_title | default: "Resume" }}: {% include a.html href=site.resume %}{{ site.resume | escape }}</a>
         </p>
       {%- endif -%}
     </div>
