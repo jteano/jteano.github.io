@@ -4,13 +4,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: John Teano
-title: Junior Developer
+title: Software Developer
 email: teano.john@gmail.com
 phone: 562-236-6465
 website: www.johnteano.me
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: jekyllrb
