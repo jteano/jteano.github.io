@@ -24,9 +24,9 @@ linkedin_username: john-teano-1963811b4
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! My name is John and I currently work as an IT Technician. I am currently pursuing my Bachelor's Degree in Computer Science at California State University of Long Beach. I've worked on coding projects here and there to achieve my goal of being a software engineer. 
+  Hello! My name is John and I am currently pursuing my Bachelor's Degree in Computer Science at California State University of Long Beach. I've worked on personal coding projects to achieve my goal of being a software engineer. 
   
-  I am most skilled in: <mark>Information Technology</mark> and <mark>Software Development</mark>
+  I am most skilled in: <mark>Data Science</mark> and <mark>Front-end development</mark>
 
 # Projects Section
 # projects_title: Projects
