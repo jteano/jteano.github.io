@@ -1,6 +1,12 @@
 - layout: left
+  name: California State University - Long Beach
+  dates: 2021 - 2023
+  qualification: Bachelor of Science in Computer Science GPA - 3.7
+  description: | # this will include new lines to allow paragraphs
+    ACM(Association for Computing Machinery)          EATS(Embedded Applications Technology Society)
+- layout: left
   name: Cerritos College
   dates: 2018 - 2020
-  qualification: Associate's Degree for Transfer Computer Science GPA - 3.74
+  qualification: Associate's Degree for Transfer Computer Science GPA - 3.7
   description: | # this will include new lines to allow paragraphs
     During my time at Cerritos College, I have completed my Associate's for Transfer Degree while working part time. I have thoroughly enjoyed my time at community college as it taught me to maintain a work-life balance.
